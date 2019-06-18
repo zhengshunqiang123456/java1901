@@ -12,6 +12,4 @@ public class Hello{
    //改bug
    ccc
    dff
-   gg
-   
 }
